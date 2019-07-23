@@ -2,6 +2,8 @@
 
 A concept app to demonstrate password hide &#x2F; show animation
 
+![](giphy.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
